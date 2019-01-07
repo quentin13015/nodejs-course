@@ -1,0 +1,22 @@
+{
+  "name": "nodejs course",
+  "description": "Courses written in Markdown",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/millehorde/nodejs-course.git"
+  },
+  "bugs": {
+    "url": "https://github.com/millehorde/nodejs-course/issues"
+  },
+  "homepage": "https://github.com/millehorde/nodejs-course#readme",
+  "keywords": [
+    "courses",
+    "markdown"
+  ],
+  "author": "Nicolas Remise <nicolasremise@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "courses-md build",
+    "start": "courses-md"
+  }
+}
