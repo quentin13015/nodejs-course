@@ -1,6 +1,6 @@
 {
-  "name": "nodejs course",
-  "description": "Courses written in Markdown",
+  "name": "nodejs-course-ynov",
+  "description": "NodeJs courses for bachelors of Ynov Aix Campus",
   "repository": {
     "type": "git",
     "url": "https://github.com/millehorde/nodejs-course.git"
@@ -11,12 +11,16 @@
   "homepage": "https://github.com/millehorde/nodejs-course#readme",
   "keywords": [
     "courses",
-    "markdown"
+    "markdown",
+    "nodejs"
   ],
   "author": "Nicolas Remise <nicolasremise@gmail.com>",
   "license": "MIT",
   "scripts": {
     "build": "courses-md build",
     "start": "courses-md"
+  },
+  "dependencies": {
+    "courses-md": "^0.5.0"
   }
 }
