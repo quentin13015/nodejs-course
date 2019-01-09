@@ -4,6 +4,55 @@
 
 (il était temps)
 
+<!-- TOC -->
+## Sommaire
+[Premier pas avec NodeJS](#premier-pas-avec-nodejs)    
+- [Premier pas avec NodeJS](#premier-pas-avec-nodejs)
+  - [Sommaire](#sommaire)
+  - [Web Basics](#web-basics)
+    - [Front VS Back](#front-vs-back)
+    - [Front-end / Back-end](#front-end--back-end)
+    - [Front-office / Back-office ?](#front-office--back-office)
+  - [What is Node.JS ?](#what-is-nodejs)
+    - [Créateur](#cr%C3%A9ateur)
+    - [Chiffres](#chiffres)
+    - [Comparaisons des packages disponibles selon les plateformes](#comparaisons-des-packages-disponibles-selon-les-plateformes)
+    - [Pourquoi Node.JS?](#pourquoi-nodejs)
+      - [Réflexions](#r%C3%A9flexions)
+      - [Multi-plateformes](#multi-plateformes)
+      - [Une communauté réactive](#une-communaut%C3%A9-r%C3%A9active)
+    - [The World of Node.JS](#the-world-of-nodejs)
+### Sommaire suite
+  - [Development Basics](#development-basics)
+    - [Bases](#bases)
+      - [JS](#js)
+      - [Modules](#modules)
+      - [Créer un module](#cr%C3%A9er-un-module)
+      - [NPM - Node Package Manager](#npm---node-package-manager)
+        - [Commandes utiles](#commandes-utiles)
+        - [BONUS - Yarn](#bonus---yarn)
+        - [TP 1 - Utiliser NPM pour gérer ses dépendances](#tp-1---utiliser-npm-pour-g%C3%A9rer-ses-d%C3%A9pendances)
+    - [Asynchronous Programming](#asynchronous-programming)
+      - [Synchronous problem](#synchronous-problem)
+      - [Asynchronous solution](#asynchronous-solution)
+    - [Callbacks](#callbacks)
+    - [Promises ou promesses en bon français](#promises-ou-promesses-en-bon-fran%C3%A7ais)
+        - [suite](#suite)
+      - [Autres exemples d'utilisation](#autres-exemples-dutilisation)
+        - [suite](#suite-1)
+    - [Async / await, de l'asynchrone en synchrone](#async--await-de-lasynchrone-en-synchrone)
+      - [Utilisations](#utilisations)
+        - [Exercice](#exercice)
+        - [Correction](#correction)
+### Sommaire suite
+  - [TP 2 Asynchrones et météo](#tp-2-asynchrones-et-m%C3%A9t%C3%A9o)
+      - [Partie 1 - Callback](#partie-1---callback)
+      - [Partie 2 - Promise](#partie-2---promise)
+      - [Partie 3 - Async/Await](#partie-3---asyncawait)
+      - [Partie BONUS](#partie-bonus)
+    - [Conclusion Asynchrone](#conclusion-asynchrone)
+      - [Final hints](#final-hints)
+
 ## Web Basics
 
 ### Front VS Back
